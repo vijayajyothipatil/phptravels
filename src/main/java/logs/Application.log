@@ -1,0 +1,6 @@
+22/02/2017 23:59:47 appLogger Loading the config file
+22/02/2017 23:59:47 appLogger Loading the object properties file
+22/02/2017 23:59:47 appLogger Creating the excel driver object
+22/02/2017 23:59:48 appLogger Creating the excel test data object
+22/02/2017 23:59:48 appLogger Creating the driver object
+22/02/2017 23:59:59 appLogger Executing test case LoginTC

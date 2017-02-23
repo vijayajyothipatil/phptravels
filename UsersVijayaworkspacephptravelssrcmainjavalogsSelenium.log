@@ -1,0 +1,5 @@
+22:50:03,998  INFO appLogger:32 - Loading the config file
+22:50:04,001  INFO appLogger:41 - Loading the object properties file
+22:50:04,002  INFO appLogger:50 - Creating the excel driver object
+22:50:04,557  INFO appLogger:58 - Creating the excel test data object
+22:50:04,604  INFO appLogger:65 - Creating the driver object
